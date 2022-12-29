@@ -16,7 +16,7 @@ baseurl:          '/'
 
 author:
   name:           'Kim, Seungdae'
-#   url:            https://twitter.com/fongandrewc
+  url:            https://seungdae251.github.io
 
 paginate:         5
 paginate_path:    '/blog/page:num'
