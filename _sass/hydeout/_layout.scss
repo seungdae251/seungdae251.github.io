@@ -21,7 +21,7 @@
   and then fill in the .container or .content elements depending on how far
   we want the sidebar or header to stretch.
 */
-@import url(https://fonts.googleapis.com/css?family=Dancing+Script);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 body {
   background-attachment: fixed;
@@ -38,8 +38,8 @@ body {
   padding: $section-spacing;
 
   .site-title {
-    font-family: 'Dancing Script';
-    font-size: 0.7rem;
+    font-family: 'Indie Flower';
+    font-size: 0.5rem;
     font-weight: normal;
     margin-bottom: $heading-spacing;
     margin-top: 0;
